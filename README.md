@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Tailspin1217/Test_Devops/_apis/build/status/drr1217.pipelines-java?branchName=master)](https://dev.azure.com/Tailspin1217/Test_Devops/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
